@@ -1,0 +1,47 @@
+_repo: The-World-s-Greatest-Books---Volume-06---Fiction_11180
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Mee, Arthur
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '4518'
+    url: http://www.gutenberg.org/2009/agents/4518
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
+  - agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, J. A. (John Alexander)
+    - Hammerton, Sir John Alexander
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'Sheridan Le Fanu: Uncle Silas -- René Lesage: Gil Blas -- Charles
+  Lever: Charles O''Malley. Tom Burke of ours -- M.G. Lewis: Ambrosio, or the monk
+  -- Mrs. Lynn Linton: Joshua Davidson -- Samuel Lover: Handy Andy -- Edward Bulwer
+  Lytton: Eugene Aram. Last days of Pompeii. The last of the barons -- Henry Mackenzie:
+  Man of feeling -- Count Xavier De Maistre: A journey round my room -- Sir Thomas
+  Malory: Morte d''Arthur -- Anne Manning: Household of Sir Thomas More -- Alessandro
+  Manzoni: The betrothed -- Capt. Marryat: Mr. Midshipman Easy. Peter Simple -- Charles
+  Maturin: Melmoth the wanderer -- Diego De Mendoza: Lazarillo de Tonnes -- Dmitri
+  Merejowski: Death of the gods -- Prosper Mérimée: Carmen -- Mary Russell Mitford:
+  Our village -- David Moir: Mansie Wauch -- James Morier: Hajji Baba -- David Christie
+  Murray: Way of the world -- Frank Norris: The pit -- Georges Ohnet: The ironmaster
+  -- Ouida: Under two flags -- James Payn: Lost Sir Massingberd.'
+title: The World's Greatest Books — Volume 06 — Fiction
+url: http://www.gutenberg.org/ebooks/11180
